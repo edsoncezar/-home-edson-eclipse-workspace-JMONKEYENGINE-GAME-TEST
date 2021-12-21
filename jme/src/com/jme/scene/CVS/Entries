@@ -1,0 +1,33 @@
+/BatchMesh.java/1.2/Thu Nov 16 16:57:59 2006//
+/BezierMesh.java/1.20/Wed Jun 21 20:33:03 2006//
+/BezierPatch.java/1.9/Thu Jun  1 15:05:39 2006//
+/BillboardNode.java/1.31/Fri Sep 21 15:45:29 2007//
+/CameraNode.java/1.9/Tue Sep 11 15:38:36 2007//
+/ConnectionPoint.java/1.1/Fri Aug 25 19:11:48 2006//
+/Controller.java/1.19/Tue Mar  6 15:14:26 2007//
+/DistanceSwitchModel.java/1.11/Fri Sep 21 15:45:28 2007//
+/Geometry.java/1.113/Fri Oct  5 22:40:35 2007//
+/ImposterNode.java/1.28/Fri Sep 21 15:45:28 2007//
+/Line.java/1.26/Thu Aug  2 21:54:36 2007//
+/Node.java/1.76/Tue Apr 29 15:09:59 2008//
+/PassNode.java/1.5/Fri Oct 12 19:41:44 2007//
+/PassNodeState.java/1.1/Thu Aug  2 22:00:59 2007//
+/Point.java/1.21/Thu Aug  2 21:54:36 2007//
+/SceneElement.java/1.9/Thu May 24 20:55:25 2007//
+/SharedMesh.java/1.38/Thu Aug  2 21:54:36 2007//
+/SharedNode.java/1.17/Fri Oct  5 22:37:18 2007//
+/Skybox.java/1.16/Fri May 12 21:19:22 2006//
+/Spatial.java/1.127/Mon Dec 10 14:36:30 2007//
+/SwitchModel.java/1.7/Thu May 11 19:39:19 2006//
+/SwitchNode.java/1.11/Fri Sep 29 22:36:52 2006//
+/Text.java/1.30/Tue Jan  8 16:42:19 2008//
+/TriMesh.java/1.69/Thu Aug  2 21:54:36 2007//
+/UserDataManager.java/1.2/Wed Aug 15 12:56:34 2007//
+/VBOInfo.java/1.13/Fri May  4 10:02:01 2007//
+D/batch////
+D/geometryinstancing////
+D/lod////
+D/model////
+D/shadow////
+D/shape////
+D/state////
